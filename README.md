@@ -42,12 +42,14 @@ This repository contains the notes and the work(lab work & self exercises) done 
 - Work of 2.1 is in progress and will be available in the `Work/ch_1/lec_2.1` directory once completed.
 
 ## Lecture Notes
+
 The lecture notes are organized by chapter and lecture. You can find them in the [`notes`](./notes) directory.
 - Notes of 1.1 are completed and available in the [`notes/lec_1.1.md`](./notes/lec_1.1.md).
 - Notes of 1.2 are in progress and will be available in the `notes/lec_1.2.md` once completed.
 - Notes of 2.1 are in progress and will be available in the `notes/lec_2.1.md` once completed.
 
 ## Coding files
+
 - Coding File of 1.1 is not available because that lecture does not have any coding part.
 - Coding File of 1.2 is completed and available in the [`Coding-files/lec_1.2.ipynb`](./Coding-files/lec_1.2.ipynb).
 - Coding File of 2.1 is in progress and will be available in the [`Coding-files/lec_2.1.ipynb`](./Coding-files/lec_2.1.ipynb) once completed.
