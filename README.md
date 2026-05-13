@@ -39,8 +39,9 @@ This repository contains the notes and the work(lab work & self exercises) done 
 
 - Work of 1.1 is completed and available in the [`Work/ch_1/lec_1.1`](./Work/ch_1/lec_1.1) directory.
 - Work of 1.2 is completed and available in the [`Work/ch_1/lec_1.2`](./Work/ch_1/lec_1.2) directory.
-- Work of 1.2 is completed and available in the [`Work/ch_1/lec_2.1`](./Work/ch_1/lec_2.1) directory.
-- Work of 2.1 is in progress and will be available in the `Work/ch_2/lec_2.2` directory once completed.
+- Work of 2.1 is completed and available in the [`Work/ch_2/lec_2.1`](./Work/ch_2/lec_2.1) directory.
+- Work of 2.2 is completed and available in the [`Work/ch_2/lec_2.2`](./Work/ch_2/lec_2.2) directory.
+- Work of 2.3 is in progress and will be available in the `Work/ch_2/lec_2.3` directory once completed.
 
 ## Lecture Notes
 
@@ -48,14 +49,16 @@ The lecture notes are organized by chapter and lecture. You can find them in the
 - Notes of 1.1 are completed and available in the [`notes/lec_1.1.md`](./notes/lec_1.1.md).
 - Notes of 1.2 are completed and available in the [`notes/lec_1.2.md`](./notes/lec_1.2.md).
 - Notes of 2.1 are completed and available in the [`notes/lec_2.1.md`](./notes/lec_2.1.md).
-- Notes of 2.2 are in progress and will be available in the `notes/lec_2.2.md` once completed.
+- Notes of 2.2 are completed and available in the [`notes/lec_2.2.md`](./notes/lec_2.2.md).
+- Notes of 2.3 are in progress and will be available in the `notes/lec_2.3.md` once completed.
 
 ## Practice files
 
 - Practice File of 1.1 is not available because that lecture does not have any practice files.
 - Practice File of 1.2 is completed and available in the [`Practice-files/lec_1.2.ipynb`](./Practice-files/lec_1.2.ipynb).
 - Practice File of 2.1 is not available because that lecture does not have any practice files.
-- Practice File of 2.2 is in progress and will be available in the `Practice-files/lec_2.2.ipynb` once completed.
+- Practice File of 2.2 is completed and available in the [`Practice-files/lec_2.2.xlsx`](./Practice-files/lec_2.2.xlsx).
+- Practice File of 2.3 is in progress and will be available in the `Practice-files/lec_2.3.ipynb` once completed.
 
 ## License
 

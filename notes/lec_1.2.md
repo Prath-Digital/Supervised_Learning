@@ -47,7 +47,7 @@ Equation: **y = mx + c**   or in ML   , **ŷ = β₀ + β₁X**
 Where: β₀ = intercept (where the line starts), β₁ = slope (how steep the line is).  
 _Model training task = Finding the best β₀ and β₁ values!_
 ## Graphical Representation (More understanding)
-![Linear Regression Graphical Representation](./assets/LR.png)
+![Linear Regression Graphical Representation](./assets/LR_example.png)
 ## Intuition — IPL Batting Average Example
 ![IPL Batting Average Example](./assets/IPL-Batting-Average-Example.png)
 ## How to Find the "Best Line" Model? — Least Squares
