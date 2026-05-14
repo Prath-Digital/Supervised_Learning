@@ -52,7 +52,7 @@ The lecture notes are organized by chapter and lecture. You can find them in the
 - Notes of 1.2 are completed and available in the [`notes/lec_1.2.md`](./notes/lec_1.2.md).
 - Notes of 2.1 are completed and available in the [`notes/lec_2.1.md`](./notes/lec_2.1.md).
 - Notes of 2.2 are completed and available in the [`notes/lec_2.2.md`](./notes/lec_2.2.md).
-- Notes of 2.3 are completed and available in the [`notes/lec_2.3.md`](./notes/lec_2.3.md).
+- Notes of 2.3 are completed and available in the [`notes/lec_2.3.md`](./notes/lec_2.3.md) and [`notes/lec_2.3 part 2.md`](./notes/lec_2.3_part-2.md).
 - Notes of 2.4 are in progress and will be available in the `notes/lec_2.4.md` once completed.
 
 ## Practice files
