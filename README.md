@@ -10,6 +10,7 @@ This repository contains the notes and the work(lab work & self exercises) done 
 - The lecture notes
 - The lab work
 - The self exercises
+- The practice files
 
 ## Getting Started
 
