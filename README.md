@@ -48,8 +48,8 @@ This repository contains the notes and the work(lab work & self exercises) done 
 - Work of 2.6 is completed and available in the [`Work/ch_2/lec_2.6`](./Work/ch_2/lec_2.6) directory.
 - Work of 2.7 is completed and available in the [`Work/ch_2/lec_2.7`](./Work/ch_2/lec_2.7) directory.
 - Work of 2.8 is completed and available in the [`Work/ch_2/lec_2.8`](./Work/ch_2/lec_2.8) directory.
-- Work of 2.9 is in progress and will be available in the `Work/ch_2/lec_2.9` directory once completed.
-
+- Work of 2.9 is completed and available in the [`Work/ch_2/lec_2.9`](./Work/ch_2/lec_2.9) directory.
+- Work of 3.1 is in progress and will be available in the `Work/ch_3/lec_3.1` directory once completed.
 ## Lecture Notes
 
 The lecture notes are organized by chapter and lecture. You can find them in the [`notes`](./notes) directory.
@@ -62,7 +62,8 @@ The lecture notes are organized by chapter and lecture. You can find them in the
 - Notes of 2.6 are completed and available in the [`notes/lec_2.6.png`](./notes/lec_2.6.png).
 - Notes of 2.7 are completed and available in the [`notes/lec_2.7.png`](./notes/lec_2.7.png).
 - Notes of 2.8 are completed and available in the [`notes/lec_2.8.png`](./notes/lec_2.8.png).
-- Notes of 2.9 are in progress and will be available in the `notes/lec_2.9.md` once completed.
+- Notes of 2.9 are completed and available in the [`notes/lec_2.9.png`](./notes/lec_2.9.png).
+- Notes of 3.1 are in progress and will be available in the `notes/lec_3.1.md` once completed.
 
 ## Practice files
 
@@ -75,7 +76,8 @@ The lecture notes are organized by chapter and lecture. You can find them in the
 - Practice Files of 2.6 is completed and available in the [`Practice-files/lec_2.6/`](./Practice-files/lec_2.6/).
 - Practice Files of 2.7 is completed and available in the [`Practice-files/lec_2.7.ipynb`](./Practice-files/lec_2.7.ipynb).
 - Practice Files of 2.8 is completed and available in the [`Practice-files/lec_2.8.ipynb`](./Practice-files/lec_2.8.ipynb).
-- Practice File of 2.9 is in progress and will be available in the `Practice-files/lec_2.9.ipynb` once completed.
+- Practice Files of 2.9 is completed and available in the [`Practice-files/lec_2.9.ipynb`](./Practice-files/lec_2.9.ipynb).
+- Practice File of 3.1 is in progress and will be available in the `Practice-files/lec_3.1.ipynb` once completed.
 
 ## License
 
