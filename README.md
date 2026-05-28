@@ -65,7 +65,9 @@ The lecture notes are organized by chapter and lecture. You can find them in the
 - Notes of 2.9 are completed and available in the [`notes/lec_2.9.png`](./notes/lec_2.9.png).
 - Notes of 4.1 are completed and available in the [`notes/lec_4.1.png`](./notes/lec_4.1.png).
 - Notes of 4.2 are completed and available in the [`notes/lec_4.2.png`](./notes/lec_4.2.png).
-- Notes of 4.3 are in progress and will be available in the `notes/lec_4.3.md` once completed.
+- Notes of 4.3 are completed and available in the [`notes/lec_4.3.png`](./notes/lec_4.3.png).
+- Notes of 4.4 are completed and available in the [`notes/lec_4.4.png`](./notes/lec_4.4.png).
+- Notes of 4.5 are in progress and will be available in the `notes/lec_4.5.md` once completed.
 
 ## Practice files
 
@@ -76,12 +78,13 @@ The lecture notes are organized by chapter and lecture. You can find them in the
 - Practice Files of 2.3 is completed and available in the [`Practice-files/lec_2.3/`](./Practice-files/lec_2.3/).
 - Practice Files of 2.4 & 2.5 is completed and available in the [`Practice-files/lec_2.4&2.5.ipynb`](./Practice-files/lec_2.4&2.5.ipynb).
 - Practice Files of 2.6 is completed and available in the [`Practice-files/lec_2.6/`](./Practice-files/lec_2.6/).
-- Practice Files of 2.7 is completed and available in the [`Practice-files/lec_2.7.ipynb`](./Practice-files/lec_2.7.ipynb).
-- Practice Files of 2.8 is completed and available in the [`Practice-files/lec_2.8.ipynb`](./Practice-files/lec_2.8.ipynb).
-- Practice Files of 2.9 is completed and available in the [`Practice-files/lec_2.9.ipynb`](./Practice-files/lec_2.9.ipynb).
-- Practice Files of 4.1 is completed and available in the [`Practice-files/lec_4.1.ipynb`](./Practice-files/lec_4.1.ipynb).
-- Practice Files of 4.2 is completed and available in the [`Practice-files/lec_4.2.ipynb`](./Practice-files/lec_4.2.ipynb).
-- Practice Files of 4.3 is in progress and will be available in the `Practice-files/lec_4.3.ipynb` once completed.
+- Practice File of 2.7 is completed and available in the [`Practice-files/lec_2.7.ipynb`](./Practice-files/lec_2.7.ipynb).
+- Practice File of 2.8 is completed and available in the [`Practice-files/lec_2.8.ipynb`](./Practice-files/lec_2.8.ipynb).
+- Practice File of 2.9 is completed and available in the [`Practice-files/lec_2.9.ipynb`](./Practice-files/lec_2.9.ipynb).
+- Practice File of 4.1 is completed and available in the [`Practice-files/lec_4.1.ipynb`](./Practice-files/lec_4.1.ipynb).
+- Practice File of 4.2 is completed and available in the [`Practice-files/lec_4.2.ipynb`](./Practice-files/lec_4.2.ipynb).
+- Practice Files of 4.3 & 4.4 is completed and available in the [`Practice-files/lec_4.3&4.4/`](./Practice-files/lec_4.3&4.4/).
+- Practice Files of 4.5 & 4.6 is in progress and will be available in the `Practice-files/lec_4.5&4.6/` once completed.
 
 ## Projects
 - Project 1 full name is "Pr. 1" and is completed and avaible in the repo [`Prath-Digital/Supervised_Learning_PR.-1`](https://github.com/Prath-Digital/Supervised_Learning_PR.-1)
