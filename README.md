@@ -69,7 +69,10 @@ The lecture notes are organized by chapter and lecture. You can find them in the
 - Notes of 4.4 are completed and available in the [`notes/lec_4.4.png`](./notes/lec_4.4.png).
 - Notes of 4.5 and 4.6 are completed and available in the [`notes/lec_4.5&4.6.png`](./notes/lec_4.5&4.6.png).
 - Notes of 4.7 are completed and available in the [`notes/lec_4.7.png`](./notes/lec_4.7.png).
-- Notes of 4.8 are in progress and will be available in the `notes/lec_4.8.png` once completed.
+- Notes of 4.8 are completed and available in the [`notes/lec_4.8.png`](./notes/lec_4.8.png).
+- Notes of 6.1 are completed and available in the [`notes/lec_6.1.png`](./notes/lec_6.1.png).
+- Notes of 6.2 are completed and available in the [`notes/lec_6.2.png`](./notes/lec_6.2.png).
+- Notes of 6.3 are in progress and will be available in the `notes/lec_6.3.png` once completed.
 
 ## Practice files
 
@@ -88,10 +91,12 @@ The lecture notes are organized by chapter and lecture. You can find them in the
 - Practice Files of 4.3 and 4.4 is completed and available in the [`Practice-files/lec_4.3&4.4/`](./Practice-files/lec_4.3&4.4/).
 - Practice Files of 4.5 and 4.6 is completed and available in the [`Practice-files/lec_4.5&4.6.ipynb`](./Practice-files/lec_4.5&4.6.ipynb).
 - Practice Files of 4.7 and 4.8 is completed and available in the [`Practice-files/lec_4.7&4.8.ipynb`](./Practice-files/lec_4.7&4.8.ipynb).
-- Practice Files of 6.1 is in progress and will be available in the `Practice-files/lec_6.1.ipynb` once completed.
+- Practice Files of 6.1 and 6.2 is completed and available in the [`Practice-files/lec_6.1&6.2.ipynb`](./Practice-files/lec_6.1&6.2.ipynb).
+- Practice Files of 6.4 is in progress and will be available in the `Practice-files/lec_6.1.ipynb` once completed.
 
 ## Projects
-- Project 1 full name is "Pr. 1" and is completed and avaible in the repo [`Prath-Digital/Supervised_Learning_PR.-1`](https://github.com/Prath-Digital/Supervised_Learning_PR.-1)
+- Project 1 full name is "Pr. 1" and is completed and available in the repo [`Prath-Digital/Supervised_Learning_PR.-1`](https://github.com/Prath-Digital/Supervised_Learning_PR.-1)
+- Project 2 full name is "Pr. 2" and is completed and available in the repo [`Prath-Digital/Supervised_Learning_PR.-2`](https://github.com/Prath-Digital/Supervised_Learning_PR.-2)
 
 
 ## License
