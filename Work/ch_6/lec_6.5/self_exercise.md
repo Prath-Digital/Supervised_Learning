@@ -1,4 +1,4 @@
-# Self Exercise - 5.5
+# Self Exercise - 6.5
 
 ## Q.1
 
@@ -66,7 +66,7 @@ Removing Tomek Links cleans the decision boundary by eliminating noisy or border
 1. For each minority sample `x_i`:
 2. Find its `k` nearest neighbors within the minority class.
 4. Randomly select one neighbor `x_nn`.
-5. Generate synthetic sample: `x_new = x_i + λ * (x_nn - x_i)`, where `λ ∈ [0, 1]`.
+6. Generate synthetic sample: `x_new = x_i + λ * (x_nn - x_i)`, where `λ ∈ [0, 1]`.
 
 **Role of λ**: Controls the position of the new synthetic sample along the line segment joining `x_i` and `x_nn`. Usually sampled uniformly from [0,1].
 
@@ -173,7 +173,7 @@ pipeline = Pipeline([
 1. **Do nothing**: Best when imbalance is mild and model is robust (e.g., tree ensembles).
 2. **class_weight='balanced'**: Best for quick baseline, especially with linear models.
 4. **SMOTE**: Good when minority class is well-clustered and you want more samples.
-5. **ADASYN**: Best when minority class has varying difficulty (many borderline points).
+6. **ADASYN**: Best when minority class has varying difficulty (many borderline points).
 
 ---
 

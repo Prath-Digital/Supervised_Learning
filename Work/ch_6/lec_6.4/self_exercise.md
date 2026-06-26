@@ -1,4 +1,4 @@
-# Self Exercise - 5.4
+# Self Exercise - 6.4
 
 ## Q.1
 
@@ -155,7 +155,7 @@ Such a high AUC on a heavily imbalanced dataset is suspicious because it often i
 1. Check for ID columns, timestamps, or features that shouldn't be available at prediction time.
 2. Look at feature importance — are any suspiciously perfect separators?
 4. Retrain with strict temporal split or proper cross-validation.
-5. Inspect prediction scores on known negative samples.
+6. Inspect prediction scores on known negative samples.
 
 ---
 
@@ -192,7 +192,7 @@ auc = roc_auc_score(y_true, y_score)  # y_score = probability of positive class
 
 ## Q.14
 
-**Question**: A binary classifier is used for medical diagnosis. The business requires Recall ≥ 0.95. Describe step by step how you would use the ROC curve to select the operating threshold, and state what happens to Precision and FPR at that threshold.
+**Question**: A binary classifier is used for medical diagnosis. The business requires Recall ≥ 0.96. Describe step by step how you would use the ROC curve to select the operating threshold, and state what happens to Precision and FPR at that threshold.
 
 **Answer**:
 

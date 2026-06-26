@@ -57,12 +57,15 @@ This repository contains the notes and the work(lab work & self exercises) done 
 - Work of 4.6 is completed and available in the [`Work/ch_4/lec_4.6`](./Work/ch_4/lec_4.6) directory.
 - Work of 4.7 is completed and available in the [`Work/ch_4/lec_4.7`](./Work/ch_4/lec_4.7) directory.
 - Work of 4.8 is completed and available in the [`Work/ch_4/lec_4.8`](./Work/ch_4/lec_4.8) directory.
-- Work of 5.1 is completed and available in the [`Work/ch_5/lec_5.1`](./Work/ch_5/lec_5.1) directory.
-- Work of 5.2 is completed and available in the [`Work/ch_5/lec_5.2`](./Work/ch_5/lec_5.2) directory.
-- Work of 5.3 is completed and available in the [`Work/ch_5/lec_5.3`](./Work/ch_5/lec_5.3) directory.
-- Work of 5.4 is completed and available in the [`Work/ch_5/lec_5.4`](./Work/ch_5/lec_5.4) directory.
-- Work of 5.5 is completed and available in the [`Work/ch_5/lec_5.5`](./Work/ch_5/lec_5.5) directory.
-- Work of 5.6 is in progress and will be available in the `Work/ch_5/lec_5.6` directory once completed.
+- Work of 6.1 is completed and available in the [`Work/ch_6/lec_6.1`](./Work/ch_6/lec_6.1) directory.
+- Work of 6.2 is completed and available in the [`Work/ch_6/lec_6.2`](./Work/ch_6/lec_6.2) directory.
+- Work of 6.3 is completed and available in the [`Work/ch_6/lec_6.3`](./Work/ch_6/lec_6.3) directory.
+- Work of 6.4 is completed and available in the [`Work/ch_6/lec_6.4`](./Work/ch_6/lec_6.4) directory.
+- Work of 6.5 is completed and available in the [`Work/ch_6/lec_6.5`](./Work/ch_6/lec_6.5) directory.
+- Work of 6.6 is completed and available in the [`Work/ch_6/lec_6.6`](./Work/ch_6/lec_6.6) directory.
+- Work of 6.7 is completed and available in the [`Work/ch_6/lec_6.7`](./Work/ch_6/lec_6.7) directory.
+- Work of 6.8 is completed and available in the [`Work/ch_6/lec_6.8`](./Work/ch_6/lec_6.8) directory.
+- Work of 6.9 is in progress and will be available in the `Work/ch_6/lec_6.9` directory once completed.
 ## Lecture Notes
 
 The lecture notes are organized by chapter and lecture. You can find them in the [`notes`](./notes) directory.
@@ -88,7 +91,9 @@ The lecture notes are organized by chapter and lecture. You can find them in the
 - Notes of 6.3 are completed and available in the [`notes/lec_6.3.png`](./notes/lec_6.3.png).
 - Notes of 6.4 are completed and available in the [`notes/lec_6.4.png`](./notes/lec_6.4.png).
 - Notes of 6.5 are completed and available in the [`notes/lec_6.5.png`](./notes/lec_6.5.png).
-- Notes of 6.6 are in progress and will be available in the `notes/lec_6.6.png` once completed.
+- Notes of 6.6 and 6.7 are completed and available in the [`notes/lec_6.6&6.7.png`](./notes/lec_6.6&6.7.png).
+- Notes of 6.8 are completed and available in the [`notes/lec_6.8.png`](./notes/lec_6.8.png).
+- Notes of 6.9 are in progress and will be available in the `notes/lec_6.9.png` once completed.
 
 ## Practice files
 
@@ -110,7 +115,9 @@ The lecture notes are organized by chapter and lecture. You can find them in the
 - Practice Files of 6.1 and 6.2 is completed and available in the [`Practice-files/lec_6.1&6.2.ipynb`](./Practice-files/lec_6.1&6.2.ipynb).
 - Practice Files of 6.3 and 6.4 is completed and available in the [`Practice-files/lec_6.3&6.4.ipynb`](./Practice-files/lec_6.3&6.4.ipynb).
 - Practice File of 6.5 is completed and available in the [`Practice-files/lec_6.5.ipynb`](./Practice-files/lec_6.5.ipynb).
-- Practice Files of 6.6 is in progress and will be available in the `Practice-files/lec_6.6.ipynb` once completed.
+- Practice Files of 6.6 and 6.7 is completed and available in the [`Practice-files/lec_6.6&6.7`](./Practice-files/lec_6.6&6.7).
+- Practice File of 6.8 is completed and available in the [`Practice-files/lec_6.8.ipynb`](./Practice-files/lec_6.8.ipynb).
+- Practice Files of 6.9 is in progress and will be available in the `Practice-files/lec_6.9.ipynb` once completed.
 
 ## Projects
 - Project 1 full name is "Pr. 1" and is completed and available in the repo [`Prath-Digital/Supervised_Learning_PR.-1`](https://github.com/Prath-Digital/Supervised_Learning_PR.-1)

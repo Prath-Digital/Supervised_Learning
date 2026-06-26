@@ -1,4 +1,4 @@
-# Self Exercise - 5.3
+# Self Exercise - 6.3
 
 ---
 
@@ -39,7 +39,7 @@ Example: If only 1% of people have a rare disease, a model that always predicts 
 
 ---
 
-## Q5. What is Type I Error? Give its name, formula, and one scenario where it is the more dangerous mistake.
+## Q6. What is Type I Error? Give its name, formula, and one scenario where it is the more dangerous mistake.
 
 **Type I Error** (False Positive) = $\frac{FP}{TP + FP}$
 
@@ -48,7 +48,7 @@ This is a **false alarm**.
 
 ---
 
-## Q5. What is Type II Error? Give its name, formula, and one scenario where it is the more dangerous mistake.
+## Q6. What is Type II Error? Give its name, formula, and one scenario where it is the more dangerous mistake.
 
 **Type II Error** (False Negative) = $\frac{FN}{TP + FN}$
 

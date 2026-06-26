@@ -1,4 +1,4 @@
-# Self Exercise - 5.2
+# Self Exercise - 6.2
 
 ## Q.1
 
