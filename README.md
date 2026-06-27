@@ -65,7 +65,7 @@ This repository contains the notes and the work(lab work & self exercises) done 
 - Work of 6.6 is completed and available in the [`Work/ch_6/lec_6.6`](./Work/ch_6/lec_6.6) directory.
 - Work of 6.7 is completed and available in the [`Work/ch_6/lec_6.7`](./Work/ch_6/lec_6.7) directory.
 - Work of 6.8 is completed and available in the [`Work/ch_6/lec_6.8`](./Work/ch_6/lec_6.8) directory.
-- Work of 6.9 is in progress and will be available in the `Work/ch_6/lec_6.9` directory once completed.
+- Work of 6.9 is completed and available in the [`Work/ch_6/lec_6.9`](./Work/ch_6/lec_6.9) directory.
 ## Lecture Notes
 
 The lecture notes are organized by chapter and lecture. You can find them in the [`notes`](./notes) directory.
@@ -93,7 +93,7 @@ The lecture notes are organized by chapter and lecture. You can find them in the
 - Notes of 6.5 are completed and available in the [`notes/lec_6.5.png`](./notes/lec_6.5.png).
 - Notes of 6.6 and 6.7 are completed and available in the [`notes/lec_6.6&6.7.png`](./notes/lec_6.6&6.7.png).
 - Notes of 6.8 are completed and available in the [`notes/lec_6.8.png`](./notes/lec_6.8.png).
-- Notes of 6.9 are in progress and will be available in the `notes/lec_6.9.png` once completed.
+- Notes of 6.9 are completed and available in the [`notes/lec_6.9.png`](./notes/lec_6.9.png).
 
 ## Practice files
 
@@ -117,7 +117,7 @@ The lecture notes are organized by chapter and lecture. You can find them in the
 - Practice File of 6.5 is completed and available in the [`Practice-files/lec_6.5.ipynb`](./Practice-files/lec_6.5.ipynb).
 - Practice Files of 6.6 and 6.7 is completed and available in the [`Practice-files/lec_6.6&6.7`](./Practice-files/lec_6.6&6.7).
 - Practice File of 6.8 is completed and available in the [`Practice-files/lec_6.8.ipynb`](./Practice-files/lec_6.8.ipynb).
-- Practice Files of 6.9 is in progress and will be available in the `Practice-files/lec_6.9.ipynb` once completed.
+- Practice File of 6.9 is completed and available in the [`Practice-files/lec_6.9.ipynb`](./Practice-files/lec_6.9.ipynb).
 
 ## Projects
 - Project 1 full name is "Pr. 1" and is completed and available in the repo [`Prath-Digital/Supervised_Learning_PR.-1`](https://github.com/Prath-Digital/Supervised_Learning_PR.-1)
