@@ -68,10 +68,16 @@ This repository contains the notes and the work(lab work & self exercises) done 
 - Work of 6.9 is completed and available in the [`Work/ch_6/lec_6.9`](./Work/ch_6/lec_6.9) directory.
 - Work of 9.1 is completed and available in the [`Work/ch_9/lec_9.1`](./Work/ch_9/lec_9.1) directory.
 - Work of 9.2 is completed and available in the [`Work/ch_9/lec_9.2`](./Work/ch_9/lec_9.2) directory.
-- Work of 9.3 will be completed and available in the [`Work/ch_9/lec_9.3`](./Work/ch_9/lec_9.3) directory once completed.
+- Work of 9.3 is completed and available in the [`Work/ch_9/lec_9.3`](./Work/ch_9/lec_9.3) directory.
+- Work of 9.4 is completed and available in the [`Work/ch_9/lec_9.4`](./Work/ch_9/lec_9.4) directory.
+- Work of 9.5 is completed and available in the [`Work/ch_9/lec_9.5`](./Work/ch_9/lec_9.5) directory.
+- Work of 9.6 is completed and available in the [`Work/ch_9/lec_9.6`](./Work/ch_9/lec_9.6) directory.
+- Work of 10.1 will be completed and available in the `Work/ch_10/lec_10.1` directory once completed.
+
 ## Lecture Notes
 
 The lecture notes are organized by chapter and lecture. You can find them in the [`notes`](./notes) directory.
+
 - Notes of 1.1 are completed and available in the [`notes/lec_1.1.md`](./notes/lec_1.1.md).
 - Notes of 1.2 are completed and available in the [`notes/lec_1.2.md`](./notes/lec_1.2.md).
 - Notes of 2.1 are completed and available in the [`notes/lec_2.1.md`](./notes/lec_2.1.md).
@@ -98,7 +104,9 @@ The lecture notes are organized by chapter and lecture. You can find them in the
 - Notes of 6.8 are completed and available in the [`notes/lec_6.8.png`](./notes/lec_6.8.png).
 - Notes of 6.9 are completed and available in the [`notes/lec_6.9.png`](./notes/lec_6.9.png).
 - Notes of 9.1 and 9.2 are completed and available in the [`notes/lec_9.1&9.2.png`](./notes/lec_9.1&9.2.png).
-- Notes of 9.3 will be completed and available in the [`notes/lec_9.3.png`](./notes/lec_9.3.png) once completed.
+- Notes of 9.3 and 9.4 are completed and available in the [`notes/lec_9.3&9.4.png`](./notes/lec_9.3&9.4.png).
+- Notes of 9.5 and 9.6 are completed and available in the [`notes/lec_9.5&9.6.png`](./notes/lec_9.5&9.6.png).
+- Notes of 10.1 will be completed and available in the `notes/lec_10.1.png` once completed.
 
 ## Practice files
 
@@ -124,13 +132,15 @@ The lecture notes are organized by chapter and lecture. You can find them in the
 - Practice File of 6.8 is completed and available in the [`Practice-files/lec_6.8.ipynb`](./Practice-files/lec_6.8.ipynb).
 - Practice File of 6.9 is completed and available in the [`Practice-files/lec_6.9.ipynb`](./Practice-files/lec_6.9.ipynb).
 - Practice Files of 9.1 and 9.2 is completed and available in the [`Practice-files/lec_9.1&9.2.ipynb`](./Practice-files/lec_9.1&9.2.ipynb).
-- Practice Files of 9.3 and 9.4 will be completed and available in the [`Practice-files/lec_9.3&9.4.ipynb`] once completed.
+- Practice Files of 9.3 and 9.4 is completed and available in the [`Practice-files/lec_9.3&9.4.ipynb`](./Practice-files/lec_9.3&9.4.ipynb).
+- Practice Files of 9.5 and 9.6 is completed and available in the [`Practice-files/lec_9.5&9.6.ipynb`](./Practice-files/lec_9.5&9.6.ipynb).
+- Practice Files of 10.1 will be completed and available in the `Practice-files/lec_10.1.ipynb` once completed.
 
 ## Projects
+
 - Project 1 full name is "Pr. 1" and is completed and available in the repo [`Prath-Digital/Supervised_Learning_PR.-1`](https://github.com/Prath-Digital/Supervised_Learning_PR.-1)
 - Project 2 full name is "Pr. 2" and is completed and available in the repo [`Prath-Digital/Supervised_Learning_PR.-2`](https://github.com/Prath-Digital/Supervised_Learning_PR.-2)
 - Project 3 full name is "Pr. 3" and is completed and available in the repo [`Prath-Digital/Supervised_Learning_PR.-3`](https://github.com/Prath-Digital/Supervised_Learning_PR.-3)
-
 
 ## License
 
