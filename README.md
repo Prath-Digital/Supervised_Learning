@@ -1,6 +1,7 @@
 # Supervised_Learning
 
 ![Supervised Learning](./assets/supervised_learning.png)
+
 ![Supervised Learning is fun](https://img.shields.io/badge/is%20fun-black?logo=scikitlearn&label=Supervised%20Learning&labelColor=white)
 
 This repository contains the notes and the work(lab work & self exercises) done for Supervised Learning. The notes are used to help others and you can also see the work code. Warning: the code is not for copy-paste but for reference.
