@@ -75,9 +75,11 @@ This repository contains the notes and the work(lab work & self exercises) done 
 - Work of 9.6 is completed and available in the [`Work/ch_9/lec_9.6`](./Work/ch_9/lec_9.6) directory.
 - Work of 11.1 is completed and available in the [`Work/ch_11/lec_11.1`](./Work/ch_11/lec_11.1) directory.
 - Work of 11.2 is completed and available in the [`Work/ch_11/lec_11.2`](./Work/ch_11/lec_11.2) directory.
-- Work of 11.3 is completed and available in the [`Work/ch_11/lec_11.1`](./Work/ch_11/lec_11.3) directory.
-- Work of 11.4 is completed and available in the [`Work/ch_11/lec_11.1`](./Work/ch_11/lec_11.4) directory.
-- Work of 11.5 will be completed and available in the `Work/ch_11/lec_11.5` directory once completed.
+- Work of 11.3 is completed and available in the [`Work/ch_11/lec_11.3`](./Work/ch_11/lec_11.3) directory.
+- Work of 11.4 is completed and available in the [`Work/ch_11/lec_11.4`](./Work/ch_11/lec_11.4) directory.
+- Work of 11.5 is completed and available in the [`Work/ch_11/lec_11.5`](./Work/ch_11/lec_11.5) directory.
+- Work of 11.6 is completed and available in the [`Work/ch_11/lec_11.6`](./Work/ch_11/lec_11.6) directory.
+<!-- - Work of nextlec will be completed and available in the `Work/ch_11/lec_nextlec` directory once completed. -->
 
 ## Lecture Notes
 
@@ -115,7 +117,10 @@ The lecture notes are organized by chapter and lecture. You can find them in the
 - Notes of 11.2 are completed and available in the [`notes/lec_11.2.png`](./notes/lec_11.2.png).
 - Notes of 11.3 are completed and available in the [`notes/lec_11.3.png`](./notes/lec_11.3.png).
 - Notes of 11.4 are completed and available in the [`notes/lec_11.4.png`](./notes/lec_11.4.png).
-- Notes of 11.5 will be completed and available in the `notes/lec_11.5.png` once completed.
+- Notes of 11.5 are completed and available in the [`notes/lec_11.5.png`](./notes/lec_11.5.png).
+- Notes of 11.6 are completed and available in the [`notes/lec_11.6.png`](./notes/lec_11.6.png).
+- Notes of Pickle File Demonstration are completed and available in the [`notes/pickle file demonstration.png`](./notes/pickle%20file%20demonstration.png).
+<!-- - Notes of nextlec will be completed and available in the `notes/lec_nextlec.png` once completed. -->
 
 ## Practice files
 
@@ -147,7 +152,10 @@ The lecture notes are organized by chapter and lecture. You can find them in the
 - Practice File of 11.2 is completed and available in the [`Practice-files/lec_11.2.ipynb`](./Practice-files/lec_11.2.ipynb).
 - Practice File of 11.3 is completed and available in the [`Practice-files/lec_11.3.ipynb`](./Practice-files/lec_11.3.ipynb).
 - Practice File of 11.4 is completed and available in the [`Practice-files/lec_11.4.ipynb`](./Practice-files/lec_11.4.ipynb).
-- Practice Files of 11.5 will be completed and available in the `Practice-files/lec_11.5.ipynb` once completed.
+- Practice File of 11.5 is completed and available in the [`Practice-files/lec_11.5.ipynb`](./Practice-files/lec_11.5.ipynb).
+- Practice File of 11.6 is completed and available in the [`Practice-files/lec_11.6.ipynb`](./Practice-files/lec_11.6.ipynb).
+- Practice File of Pickle File Demonstration is completed and available in the [`Practice-files/pickle file demonstration.ipynb`](./Practice-files/pickle%20file%20demonstration.ipynb).
+<!-- - Practice Files of nextlec will be completed and available in the `Practice-files/lec_nextlec.ipynb` once completed. -->
 
 ## Projects
 
